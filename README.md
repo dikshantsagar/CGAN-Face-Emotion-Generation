@@ -7,4 +7,4 @@ Generating Photorealistic Facial Images with specified emotions using CGAN.
 
 
 ![loss-plot](https://raw.githubusercontent.com/dikshantsagar/CGAN-Face-Emotion-Generation/master/1000-plot.png?token=AHRBHFVEQM5MU7X2XTXPZGS64YRUA)
-![results-on-1000-epochs](https://raw.githubusercontent.com/dikshantsagar/CGAN-Face-Emotion-Generation/master/Screenshot%202020-06-05%20at%209.33.30%20AM.png?token=AHRBHFVOA34HFY6YI7XZUHK64YRHM)
+![results-on-1000-epochs](https://raw.githubusercontent.com/dikshantsagar/CGAN-Face-Emotion-Generation/master/Screenshot%202020-06-05%20at%209.33.30%20AM.png?token=AHRBHFVEQM5MU7X2XTXPZGS64YRUA)
